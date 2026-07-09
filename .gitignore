@@ -1,0 +1,2 @@
+# Build artifacts / release assets are uploaded to GitHub Releases, not committed.
+dist/
